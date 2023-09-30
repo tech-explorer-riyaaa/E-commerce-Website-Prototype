@@ -58,6 +58,7 @@ To check out other functionalities of this project (modals, interactive buttons 
 ### Prerequisites
 
 - Web browser (Google Chrome, Firefox, Safari, etc.)
+- All the pictures used in designing the website are provided inside the "folder" in this repository for the website to look as intended.
 
 ### Installation
 
