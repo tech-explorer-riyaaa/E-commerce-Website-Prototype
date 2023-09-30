@@ -13,23 +13,25 @@ This project is a prototype of an E-commerce website, inspired by H&M's website 
 
 ## Demo
 HOME PAGE :
-<img width="958" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/b43fcab2-8054-4c25-8837-27f2b9aca863">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/06f07142-6610-46e3-82cf-8a450c6cf088">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/1571fb9b-930d-4108-af30-0a3868e7498e">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/363d12da-7eb7-411e-8e54-e14cdfa5e5d6">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/ae8f45a6-f7dd-4e60-98f5-d9921b1f484d">
-<img width="958" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/8b46dcb6-060a-4158-b511-53f9aa3b40a5">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/d9d10652-b7a9-410a-b57a-881fdf17250d">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/33ae2917-36a9-4d7a-ab47-540e1a77f06b">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/80932d49-3031-40b7-872f-10e1a24d4459">
-<img width="958" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/d5eaa9ea-7d07-48a3-9440-974d61518832">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/d82fef2c-db77-4251-9136-9f9f93278daf">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/dd9723d8-cecd-4b1f-a91a-a78c891c1eb4">
+<img width="958" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/73f3e482-e0bc-4454-a0da-8b69b0ffbfb9">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/656388e8-d84a-40f2-a64c-6564486bd6b9">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/aef3c3c7-9360-4585-83d1-7693684f7ece">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/c89e11a3-ce4f-443f-b9b3-059c5ce078b0">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/6ce74e38-a96f-4c5d-b398-d7c869207fac">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/b1ed1e2f-4c7a-4e31-9030-771a2b0368d4">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/baa89fe0-beab-475a-9d99-80cbe6356e2b">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/06048ae9-232f-40e6-980e-63a4209500b4">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/0edebd0f-6a8a-4239-8edb-4fe76f8ef0bc">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/e6bac441-3fd5-460f-9a42-ccb411c0281c">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/a793d13e-3568-4802-8188-e1d8a25858ce">
+
 
 SECONDARY WEB-PAGE :
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/40dbb143-625b-4026-adcb-06c6644eeb67">
-<img width="959" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/eb8ac1a5-3b72-4394-a2a4-125b2bb0a45b">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/6de2757a-2ac9-41fc-9fd3-c30b33487ac0">
-<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/3fd6b832-de12-4af1-a0b4-58addd7b48d8">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/009a557c-e01c-4a89-bd77-199fed320551">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/026b2d3e-0463-4b33-b4ea-af9c02c741ae">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/d44ad8d2-84a6-48e2-9b19-ced09ff81274">
+<img width="960" alt="image" src="https://github.com/tech-explorer-riyaaa/E-commerce-Website-Prototype/assets/122520061/602c07d7-0100-417a-b6c8-fa64fe70a5d2">
 
 
 To check out other functionalities of this project (modals, interactive buttons & hyperlinks, embedded video, carousel, etc.) - watch the video - https://youtu.be/_jum1X9XlTk
