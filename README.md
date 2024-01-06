@@ -1,6 +1,6 @@
 # E-commerce-Website-Prototype
 
-This project is a prototype of an E-commerce website, inspired by H&M's website design. It is developed using HTML, CSS, Bootstrap, JavaScript, and jQuery. The prototype is responsive, interactive, and includes features like modals, forms, carousel, embedded video, pictures, hyperlinks, buttons and interconnected web pages.
+This project is a prototype of an E-commerce website, inspired by H&M's website design. It is developed using HTML, CSS, Bootstrap, JavaScript, and jQuery. The prototype is interactive, and includes features like modals, forms, carousel, embedded video, pictures, hyperlinks, buttons and interconnected web pages. Note: It's not responsive. 🛍️💻
 
 ## Table of Contents
 
